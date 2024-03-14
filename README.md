@@ -1,5 +1,6 @@
 # Predicting-gene-expression-using-millions-of-random-promoter-sequences
 One contribution from Team: DrAshokAndFriends.
+[![DOI](https://zenodo.org/badge/635187654.svg)](https://zenodo.org/doi/10.5281/zenodo.10817886)
 
 
 Includes:

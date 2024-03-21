@@ -1,7 +1,7 @@
 # Predicting-gene-expression-using-millions-of-random-promoter-sequences
-One contribution from Team: DrAshokAndFriends.
-[![DOI](https://zenodo.org/badge/635187654.svg)](https://zenodo.org/doi/10.5281/zenodo.10817886)
+One contribution from Team: DrAshokAndFriends to [random-promoter-dream-challenge-2022](https://github.com/de-Boer-Lab/random-promoter-dream-challenge-2022).
 
+[![DOI](https://zenodo.org/badge/635187654.svg)](https://zenodo.org/doi/10.5281/zenodo.10817886)
 
 Includes:
 1. Final report.docx: Documentation of our contribution to this challenge. More details about the competition could be found at:
